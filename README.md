@@ -1,2 +1,1 @@
-# ldh-noteTaker
- 
+# Note Taker Starter Code
