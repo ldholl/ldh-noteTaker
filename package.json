@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "nanoid": "^4.0.0",
+    "shortid": "^2.2.16"
   },
   "directories": {
     "lib": "lib"
