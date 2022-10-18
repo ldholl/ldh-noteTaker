@@ -1,7 +1,7 @@
 {
   "notes": [
     {
-      "title": "reschedule delivery",
+      "title": "Reschedule delivery",
       "text": "call FedEx to reschedule delivery to Tuesday",
       "id": "23433"
     },
@@ -24,11 +24,6 @@
       "title": "Balance books",
       "text": "Balance account books by end of day Monday",
       "id": "b_Iw30A0V"
-    },
-    {
-      "title": "New note here",
-      "text": "blahblahblah",
-      "id": "zKlZympx9"
     }
   ]
 }

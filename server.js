@@ -33,6 +33,7 @@ app.post('/api/notes', (req, res) => {
     // }    
 });
 
+
 //HTML Routes
 //GET * to return index.html
 app.get('/', (req, res) => {
