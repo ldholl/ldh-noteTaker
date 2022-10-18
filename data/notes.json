@@ -1,6 +1,21 @@
-[
-  {
-      "title":"Test Title",
-      "text":"Test text"
-  }
-]
+{
+  "notes": [
+    {
+      "title": "test title 1",
+      "text": "test text 1"
+    },
+    {
+      "title": "test title 2",
+      "text": "test text 2"
+    },
+    {
+      "title": "test title 3",
+      "text": "test text 3"
+    },
+    {
+      "title": "Balance accounts",
+      "text": "Balance account books by end of day Monday",
+      "id": "3"
+    }
+  ]
+}
